@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-98-login-form-inputs-have-no-associated-labels-or",
+    "fix/issue-99-qrscannermodal-is-not-an-accessible-dialog-no",
+    "main",
+    "origin",
+    "security/issue-100-qrscannermodal-injects-a-google-fonts-import"
+  ],
+  "parent": {
+    "fix/issue-98-login-form-inputs-have-no-associated-labels-or": "main",
+    "fix/issue-99-qrscannermodal-is-not-an-accessible-dialog-no": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-100-qrscannermodal-injects-a-google-fonts-import": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-98-login-form-inputs-have-no-associated-labels-or",
+    "fix/issue-99-qrscannermodal-is-not-an-accessible-dialog-no",
+    "origin",
+    "security/issue-100-qrscannermodal-injects-a-google-fonts-import"
+  ]
+}
